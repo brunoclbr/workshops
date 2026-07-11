@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+
+# local agent artifacts
+.pi-subagents/
+
+# local data files
+/Hochfrequenz GmbH/Shared/energy-demand/data/
