@@ -4,5 +4,13 @@
 # local agent artifacts
 .pi-subagents/
 
-# local data files
+# Python/local environments
+.venv/
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# local workshop data files
+/energy-demand-forecasting/project/data/
 /Hochfrequenz GmbH/Shared/energy-demand/data/
+*.hdf5
