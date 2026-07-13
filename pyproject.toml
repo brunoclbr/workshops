@@ -1,0 +1,17 @@
+[project]
+name = "workshops"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "langchain-openai>=1.3.5",
+    "langgraph>=1.2.9",
+]
+
+[tool.uv.workspace]
+members = [
+    "harness-engineering",
+]

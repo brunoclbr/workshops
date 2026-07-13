@@ -12,5 +12,6 @@
 
 # local workshop data files
 /energy-demand-forecasting/project/data/
-/Hochfrequenz GmbH/Shared/energy-demand/data/
+/Hochfrequenz_GmbH/Shared/energy-demand/data/
+/Hochfrequenz_GmbH/
 *.hdf5
